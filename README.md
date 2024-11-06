@@ -1,5 +1,4 @@
 # Portfolio-Wajid_Daud_Tamboli
-Personal Portfolio
 
 <div id="header" align="center">
   <div id="badges">
@@ -36,7 +35,7 @@ I'm constantly expanding my skills, currently diving into UX/UI design principle
 
 ## 🛠️ Tools & Technologies
 
-- **Frontend**: React JS, Next JS, Vanilla JS, HTML, CSS.
+- **Frontend**: Next JS, Vanilla JS, HTML, CSS.
 - **Backend Basics**: Node JS, Express JS (For API integration).
 - **Version Control**: Git, GitHub.
 - **IDEs**: Visual Studio Code, NetBeans.
