@@ -50,6 +50,3 @@ I'm excited to connect with developers and tech enthusiasts alike! Feel free to 
 ## 🏆 My GitHub Stats 🏆
 ![Wajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajiddaudtamboli&show_icons=true&theme=radical)
 
----
-
-This setup keeps it frontend-focused and user-centered. Let me know if you'd like further customization! 🚀
