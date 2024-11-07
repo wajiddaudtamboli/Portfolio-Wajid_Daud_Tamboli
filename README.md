@@ -45,7 +45,3 @@ I'm constantly expanding my skills, currently diving into UX/UI design principle
 I'm excited to connect with developers and tech enthusiasts alike! Feel free to reach out to me on: <br>
 **LinkedIn - [linkedin.com/in/wajid-daud-tamboli-3217b031a](https://www.linkedin.com/in/wajid-daud-tamboli-3217b031a/)** <br>
 **Gmail - [wajidddaudtamboli123@gmail.com](mailto:wajidddaudtamboli123@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
-
-## 🏆 My GitHub Stats 🏆
-![Wajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajiddaudtamboli&show_icons=true&theme=radical)
-
