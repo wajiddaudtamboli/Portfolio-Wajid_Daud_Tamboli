@@ -35,10 +35,11 @@ I'm constantly expanding my skills, currently diving into UX/UI design principle
 
 ## 🛠️ Tools & Technologies
 
-- **Frontend**: Next JS, Vanilla JS, HTML, CSS.
+- **Frontend**: React JS, Talwind CSS, Bootstrap, Vanilla JS, HTML, CSS.
 - **Backend Basics**: Node JS, Express JS (For API integration).
+- **Database**: MySQL, MongoDB.
 - **Version Control**: Git, GitHub.
-- **IDEs**: Visual Studio Code, NetBeans.
+- **IDEs**: Visual Studio Code, NetBeans, Apache, Idle, Jupiter Notebook
 
 ## 📫 Let's Connect
 
